@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/akaya_telivigala</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/averia_sans_libre_light</item>
+        <item>@font/baloo_bhai_2</item>
+        <item>@font/baloo_chettan</item>
+        <item>@font/bangers</item>
+        <item>@font/beth_ellen</item>
+        <item>@font/caveat_brush</item>
+        <item>@font/chewy</item>
+        <item>@font/dekko</item>
+        <item>@font/farro_light</item>
+        <item>@font/julee</item>
+        <item>@font/mogra</item>
+        <item>@font/sansita</item>
+        <item>@font/satisfy</item>
+    </array>
+</resources>
